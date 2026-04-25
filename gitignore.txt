@@ -1,0 +1,16 @@
+# 环境与配置文件
+.env
+.env.*
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 会话数据
+sessions/
+
+# 系统文件
+.DS_Store
+Thumbs.db
